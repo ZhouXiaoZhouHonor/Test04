@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test04</string>
+    <string name="music_begin">play</string>
+    <string name="music_stop">stop</string>
+    <string name="music_pause">pause</string>
+    <string name="music_exit">exit</string>
+</resources>
